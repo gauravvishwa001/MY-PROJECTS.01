@@ -26,4 +26,4 @@ then
 
 	echo $dec | tr 'd-za-c D-ZA-C' 'a-z A-Z'
 
-if
+fi
