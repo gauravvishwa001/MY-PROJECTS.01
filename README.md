@@ -13,9 +13,11 @@ FEATURES :-----
 2) simple and user friendly command line enter face
 
 HOW IT WORKS :-----
-Firstly select the encryption and decryption method 
+Firstly you have rum the command bash decryption.sh and enter 
+select the encryption and decryption method 
 press 1 to encrypt press 2 to decrypt 
 and secondly enter the value and provide the encrypted and decrypted vlaue 
+show for example this image how it works....
 <img width="1164" height="605" alt="Screenshot_2026-05-01_04_42_58" src="https://github.com/user-attachments/assets/73d6a5fe-c0fb-46e7-b6ac-5d6f77f996c6" />
 
 
