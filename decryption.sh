@@ -18,7 +18,6 @@ then
 
 	echo $enc | tr 'a-z A-Z' 'd-za-c D-ZA-C'
 
-read A 
 elif [ $A -eq 2 ]
 then 
 	echo " PLEASE PROVIDE TO TEXT TO DECRYPT:"
