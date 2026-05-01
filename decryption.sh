@@ -25,5 +25,6 @@ then
 	read dec
 
 	echo $dec | tr 'd-za-c D-ZA-C' 'a-z A-Z'
-
+else 
+    echo "INVALID INPUT PLEASE TRY ONLY 1 AND 2"
 fi
