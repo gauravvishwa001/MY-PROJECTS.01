@@ -1,7 +1,7 @@
 CAESER CIPHER ENCRYPTION DECRYPTION TOOL (BASH SCRIPTING )
 
 OVERVIEW:----- 
-This is a simple ans useful tool caeser cipher based encryption tool written in bash scripting the purpose of this project is to basic cryptography concepts in a practical way 
+This is a simple anD useful tool caeser cipher based encryption tool written in bash scripting the purpose of this project is to basic cryptography concepts in a practical way 
 
 It provides an interactive menu where the user can choose:
 
